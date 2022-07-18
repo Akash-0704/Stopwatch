@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(45, 8, 255, 0.377);
+    background-color: black;
   }
   
   h1 {
@@ -48,7 +48,8 @@ div.interface{
     padding: 50px;
     margin: 20px;
     text-align: center;
-    margin-left: auto; margin-right: auto;
+    margin-top: 145px; margin-bottom: 150px;
+    margin-left: auto;margin-right: auto;
 }
 
 
